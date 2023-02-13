@@ -8,3 +8,7 @@
 * Task Manager
 * Compose Quadrant
 * Business Card
+
+단원 2 : https://developer.android.com/courses/android-basics-compose/unit-2?hl=ko
+* Dice Roller
+* Lemonade
