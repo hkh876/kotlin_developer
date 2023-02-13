@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="content_1_image_description_text">by charlesdeluvio from unsplash</string>
+    <string name="content_2_image_description_text">by kevin mueller from unsplash</string>
+    <string name="content_3_image_description_text">by kar ming moo from unsplash</string>
+    <string name="content_4_image_description_text">by laura colleage from</string>
+    <string name="content_5_image_description_text">by wexor tmg from</string>
+    <string name="content_1_title_text">Toshi wearing a knit sweater</string>
+    <string name="content_2_title_text">Orange parrot</string>
+    <string name="content_3_title_text">White tiger</string>
+    <string name="content_4_title_text">The deer</string>
+    <string name="content_5_title_text">Endangered marine life</string>
+    <string name="content_1_author_text">charlesdeluvio</string>
+    <string name="content_2_author_text">kevin mueller</string>
+    <string name="content_3_author_text">kar ming moo</string>
+    <string name="content_4_author_text">laura colleage</string>
+    <string name="content_5_author_text">wexor tmg</string>
+    <string name="content_date_text">(%s)</string>
+</resources>
