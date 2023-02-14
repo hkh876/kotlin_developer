@@ -14,7 +14,11 @@
 * Lemonade
 * Tip Time
 * Art Space
- - image source : https://unsplash.com/ko - unsplash -
+ - image source : https://unsplash.com/ko from unsplash
+
+단원 3 : https://developer.android.com/courses/android-basics-compose/unit-3?hl=ko
+* Affirmations
+* Courses
   
 # Kotlin
  * Mobile Notification
