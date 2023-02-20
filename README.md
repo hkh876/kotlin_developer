@@ -20,6 +20,7 @@
 * Affirmations
 * Courses
 * Woof
+* Super Heroes
   
 # Kotlin
  * Mobile Notification
