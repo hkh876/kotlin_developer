@@ -26,6 +26,9 @@
 * Dessert Clicker
 * Unscramble
 * Cupcake
+* Lunch Try
+* Reply
+* Sports
   
 # Kotlin
  * Mobile Notification
