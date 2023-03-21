@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+    <string name="available_flights_title">Flights from %s</string>
+    <string name="available_flights_depart">DEPART</string>
+    <string name="available_flights_arrive">ARRIVE</string>
+    <string name="favorite_icon_description">Favorite Icon</string>
+    <string name="favorite_title">Favorite routes</string>
+</resources>

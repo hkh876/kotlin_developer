@@ -34,6 +34,12 @@
 * Race Tracker
 * Mars Photos
 * Amphibians
+
+단원 6 : https://developer.android.com/courses/android-basics-compose/unit-6?hl=ko
+* Inventory
+* Bus Schedule
+* Dessert Release
+* Flight Search
   
 # Kotlin
  * Mobile Notification
