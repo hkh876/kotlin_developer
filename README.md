@@ -44,6 +44,10 @@
 단원 7 : https://developer.android.com/courses/android-basics-compose/unit-7?hl=ko
 * Work Manager
 * Water Me
+
+단원 8 : https://developer.android.com/courses/android-basics-compose/unit-8?hl=ko
+* Juice Tracker Views
+* Juice Tracker Compose
   
 # Kotlin
  * Mobile Notification
