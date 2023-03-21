@@ -40,6 +40,10 @@
 * Bus Schedule
 * Dessert Release
 * Flight Search
+
+단원 7 : https://developer.android.com/courses/android-basics-compose/unit-7?hl=ko
+* Work Manager
+* Water Me
   
 # Kotlin
  * Mobile Notification
