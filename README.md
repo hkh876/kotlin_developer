@@ -58,8 +58,8 @@
  
 # Toy Project
 Calculator App
- * To Do
-  - Responsive UI
-  - Disable Keyboard
- * Opensource
-  - Exprk : https://github.com/Keelar/ExprK
+ <To Do>
+  * Responsive UI
+  * Disable Keyboard
+ <Opensource>
+  * Exprk : https://github.com/Keelar/ExprK
