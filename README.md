@@ -1,6 +1,6 @@
 # kotlin_developer
 
-# Android
+# Compose
 단원 1: https://developer.android.com/courses/android-basics-compose/unit-1?hl=ko
 * Greeting Card
 * Happy Birthday
@@ -55,3 +55,11 @@
  * Temperature Converter
  * Internet Profile
  * Special Auction
+ 
+# Toy Project
+Calculator App
+ * To Do
+  - Responsive UI
+  - Disable Keyboard
+ * Opensource
+  - Exprk : https://github.com/Keelar/ExprK
