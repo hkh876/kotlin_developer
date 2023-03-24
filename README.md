@@ -14,7 +14,7 @@
 * Lemonade
 * Tip Time
 * Art Space
- - image source : https://unsplash.com/ko from unsplash
+  * image source : https://unsplash.com/ko from unsplash
 
 단원 3 : https://developer.android.com/courses/android-basics-compose/unit-3?hl=ko
 * Affirmations
@@ -57,9 +57,10 @@
  * Special Auction
  
 # Toy Project
-Calculator App
- ## To Do
+
+### **Calculator App**
+* ##### To Do
   * Responsive UI
   * Disable Keyboard
- ## Opensource
-  * Exprk : https://github.com/Keelar/ExprK
+ * #### Opensource
+   * Exprk : https://github.com/Keelar/ExprK
