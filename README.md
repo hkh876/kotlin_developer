@@ -1,5 +1,3 @@
-# kotlin_developer
-
 # Compose
 단원 1: https://developer.android.com/courses/android-basics-compose/unit-1?hl=ko
 * Greeting Card
@@ -48,6 +46,16 @@
 단원 8 : https://developer.android.com/courses/android-basics-compose/unit-8?hl=ko
 * Juice Tracker Views
 * Juice Tracker Compose
+
+# Books
+### **Do It**
+ * KaKaoTalk Password Confirmation - 6장
+ * Phone Number Keypad - 7장
+ * Stop Watch App - 8장
+ * Intro App - 9장
+ * Notifications With Reply - 10장
+ * Screen With Jetpack - 11장
+ 
   
 # Kotlin
  * Mobile Notification
@@ -59,7 +67,7 @@
 # Toy Project
 
 ### **Calculator App**
-* ##### To Do
+* #### To Do
   * Responsive UI
   * Disable Keyboard
  * #### Opensource

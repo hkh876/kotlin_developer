@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stop Watch App</string>
+    <string name="exit_toast_text">종료하려면 한 번 더 누르세요!!</string>
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+    <string name="reset_button">RESET</string>
+</resources>

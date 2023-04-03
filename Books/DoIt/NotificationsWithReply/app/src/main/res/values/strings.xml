@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifications With Reply</string>
+    <string name="notify_button_text">알림 발생</string>
+    <string name="channel_name">Channel One</string>
+    <string name="channel_id">Channel-ID-1</string>
+    <string name="channel_description">Channel One Description</string>
+    <string name="notify_sender">태평장사꾼</string>
+    <string name="notify_contents">안녕하세요.</string>
+    <string name="reply_label">답장</string>
+</resources>

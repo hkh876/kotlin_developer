@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen With Jetpack</string>
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+    <string name="item_text">item %s</string>
+    <string name="drawer_content_text">I am Drawer</string>
+</resources>
