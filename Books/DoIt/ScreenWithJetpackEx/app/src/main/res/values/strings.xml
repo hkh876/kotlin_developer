@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenWithJetpackEx</string>
+    <string name="item_text">Item %s</string>
+    <string name="drawer_content_title">Navigation Title</string>
+    <string name="navigation_item_text">아이템%s</string>
+    <string name="extended_floating_action_button_text">EXTENDED FAB</string>
+</resources>

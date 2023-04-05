@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="action_button_text">ADD TODO</string>
+    <string name="add_todo_destination_text">Add To Do</string>
+    <string name="add_todo_input_title">Todo 등록</string>
+    <string name="save_button_text">저장</string>
+</resources>
