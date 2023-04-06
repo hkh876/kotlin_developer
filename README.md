@@ -57,6 +57,7 @@
  * Screen With Jetpack - 11장
  * Screen With Jetpack Ex - 12장
  * To Do App - 13장
+ * Battery Information - 14장
  
   
 # Kotlin

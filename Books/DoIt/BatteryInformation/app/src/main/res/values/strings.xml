@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Battery Information</string>
+    <string name="permission_deny_text">Permission denied...</string>
+    <string name="ac_plugged">AC Plugged</string>
+    <string name="battery_percent_text">%s</string>
+    <string name="run_receiver_button_text">RUN RECEIVER</string>
+    <string name="not_plugged">Not Plugged</string>
+    <string name="usb_plugged">USB Plugged</string>
+</resources>
