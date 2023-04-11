@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Player App</string>
+    <string name="title_for_messenger_play">Messenger Play</string>
+    <string name="title_for_aidl_play">AIDL Play</string>
+</resources>
