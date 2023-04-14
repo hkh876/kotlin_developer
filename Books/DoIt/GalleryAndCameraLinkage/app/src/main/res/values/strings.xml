@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gallery And Camera Linkage</string>
+    <string name="change_profile_picture">프로필 사진 교체</string>
+    <string name="gallery_app_button_text">GALLERY APP</string>
+    <string name="camera_app_button_text">CAMERA APP</string>
+</resources>

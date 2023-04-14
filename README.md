@@ -59,6 +59,7 @@
  * To Do App - 13장
  * Battery Information - 14장
  * Music Player App, Music Player Service - 15장
+ * Gallery And Camera Linkage - 16장
  
   
 # Kotlin
