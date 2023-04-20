@@ -60,6 +60,9 @@
  * Battery Information - 14장
  * Music Player App, Music Player Service - 15장
  * Gallery And Camera Linkage - 16장
+ * News App - 18장
+ * Google Map App - 19장
+ * Firebase Linkage - 20장
  
   
 # Kotlin

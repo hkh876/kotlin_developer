@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="author_and_published">%s At %s</string>
+</resources>
