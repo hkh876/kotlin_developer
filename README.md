@@ -76,7 +76,7 @@
  * Special Auction
  
 # Toy Project
- * Exam Test App
+ * Exam Test App - Not include resources(images)
 
 ### **Calculator App**
 * #### To Do
