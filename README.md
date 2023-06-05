@@ -77,6 +77,7 @@
  
 # Toy Project
  * Exam Test App - Not include resources(images)
+ * Restaurant Search App
 
 ### **Calculator App**
 * #### To Do
